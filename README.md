@@ -7,7 +7,6 @@ An open-source, Arduino-based remote-controlled (RC) car project. This project i
 - Arduino-controlled RC car
 - Compatible with standard RC transmitters/receivers
 - 3D-printable top and bottom chassis parts (.STL format)
-- PWM-based motor control for steering and throttle
 - Ready to extend for autonomous or WiFi/Bluetooth operation
 
 ---
@@ -35,5 +34,18 @@ An open-source, Arduino-based remote-controlled (RC) car project. This project i
 
 ---
 
-## 🔌 Wiring Overview
+## 👥 Authors
 
+### Facilitators
+- [captain118](https://github.com/captain118)
+- [don-willingham](https://github.com/don-willingham)
+- [asdf23](https://github.com/asdf23)
+
+### Members
+- Lily Yost  
+- Ava  
+- Iris Ali
+
+### Funding and Facilities 
+- [Tampa HakerSpace](https://tampahackerspace.com/)
+- [Girls Who Code](https://girlswhocode.com/)
